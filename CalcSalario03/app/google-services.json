@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175293228518",
+    "firebase_url": "https://calcsalario-f5852.firebaseio.com",
+    "project_id": "calcsalario-f5852",
+    "storage_bucket": "calcsalario-f5852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175293228518:android:44f1c761a8c631de9d2227",
+        "android_client_info": {
+          "package_name": "com.example.calcsalario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175293228518-mfik40b7nlicu5bpc2g8fvjdmougkbks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNZFIkFTj_ei1wjFxUMy-UPOsvebS3N-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175293228518-mfik40b7nlicu5bpc2g8fvjdmougkbks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalcSalario</string>
+    <string name="title_activity_login">Login no App</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Senha</string>
+    <string name="action_sign_in">Entre ou registre-se</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Nome de usuário inválido</string>
+    <string name="invalid_password">A Senha deve possuir mais que 5 caracteres</string>
+    <string name="login_failed">"Login falhou"</string>
+</resources>
